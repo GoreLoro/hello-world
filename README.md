@@ -1,2 +1,5 @@
 # hello-world
-My first hello world project
+
+Hi there!
+
+My name is Gore Loro. I am C#, WPF developer
