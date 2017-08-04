@@ -1,4 +1,4 @@
 # hello-world
-My first hello world project
+Hi there!
 
-Changes to the code
+My name is Gore Loro. I am C#, WPF developer
